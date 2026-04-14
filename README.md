@@ -45,4 +45,3 @@ Fields are:
 * Python: Pandas, NumPy, Seaborn, Matplotlib
 * Jupyter Notebook
 
-
