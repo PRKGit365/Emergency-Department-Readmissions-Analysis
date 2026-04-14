@@ -26,8 +26,9 @@ ED leadership has raised concerns about:
 
 ***
 
-🔍 **Dataset Overview**
-Rows: 400 (each is a single ED encounter)
+🔍 **Dataset Overview**  
+
+Rows: 400  
 Columns: 7
 Fields are:
 * Visit ID
@@ -44,4 +45,3 @@ Fields are:
 
 * Python: Pandas, NumPy, Seaborn, Matplotlib
 * Jupyter Notebook
-
