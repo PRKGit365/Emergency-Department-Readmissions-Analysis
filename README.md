@@ -29,7 +29,7 @@ ED leadership has raised concerns about:
 🔍 **Dataset Overview**  
 
 Rows: 400  
-Columns: 7
+Columns: 7  
 Fields are:
 * Visit ID
 * Age
