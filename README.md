@@ -13,7 +13,6 @@ ED leadership has raised concerns about:
 * The ability to identify patients likely to be admitted as early as possible
 * To support these goals, you have been asked to analyze historical ED visit data and build both statistical tests and predictive models that can
   inform operational planning and early risk stratification.    
-  Project link: https://statistical-analysis-and-data-modeling-in-healthcare-02a43a.gitlab.io/readings/Final-Project-Overview.md.html
 
   ***
   
