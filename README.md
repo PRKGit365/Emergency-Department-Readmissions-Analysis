@@ -1,9 +1,9 @@
 ## 📊 EMERGENCY DEPARTMENT READMISSIONS ANALYSIS (PYTHON & JUPYTER NOTEBOOKS)
-📖**Description**  
+📖 **Description**  
 This SkillUp.online project applies statistical analysis and predictive modeling techniques to a realistic healthcare operations scenario using Python and Jupyter Notebook. It includes end-to-end analysis with emergency department (ED) visit data—exploring patterns, testing hypotheses, and building models that support data-driven operational and clinical decision-making.
 
 
-📈**Project Scenario**  
+📈 **Project Scenario**  
 Role: Healthcare Data Analyst working with the Emergency Department (ED) operations team at a large urban hospital.  
 
 ED leadership has raised concerns about:  
@@ -27,7 +27,7 @@ ED leadership has raised concerns about:
 
 Rows: 400  
 Columns: 7  
-Fields:
+Fields:  
 * Visit ID
 * Age
 * Triage Level
