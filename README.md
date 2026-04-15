@@ -27,7 +27,7 @@ ED leadership has raised concerns about:
 
 Rows: 400  
 Columns: 7  
-Fields are:
+Fields:
 * Visit ID
 * Age
 * Triage Level
