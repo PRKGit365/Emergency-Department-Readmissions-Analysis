@@ -22,6 +22,19 @@ ED leadership has raised concerns about:
 * Train and compare tree-based machine learning models
 * Interpret analytical results in an operational healthcare context
 
+🎯 **Key Healthcare Analytics Insights**  
+
+Operational Interpretation:  Extended emergency department stays and extensive diagnostic testing strongly correlate with higher hospital admission rates. Harnessing these metrics can empower clinicians to identify high-risk patients earlier, driving timely interventions and supporting operational decision-making.
+
+Statistical Analysis Insights:    
+
+* The independent-samples t-test revealed a statistically significant difference in length of stay between admitted and non-admitted patients, suggesting a
+  critical influence of this metric on patient outcomes.
+* The logistic regression model demonstrated an admission risk prediction accuracy of 0.69. However, the modest AUC, potentially driven by dataset imbalance,
+  underscores the need for more robust predictive strategies to elevate clinical decision support.
+* The one-way ANOVA did not show a statistically significant difference in length of stay across low-, medium-, and high-triage groups.
+* Model performance could likely be improved by incorporating additional clinically relevant predictors and applying regularization methods, such as LASSO, to
+  reduce overfitting and improve generalizability.
 
 🔍 **Dataset Overview**  
 
